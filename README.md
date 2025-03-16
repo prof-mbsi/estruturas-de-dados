@@ -20,4 +20,3 @@
 17. 11/jun: **_A2-2: Projeto disciplinar e equipe. Defesa/Apresentação (3,0)_**
 18. 18/jun: **_A1: Prova individual e sem consulta_**
 19. 02/jul: **_Substitutiva_**
---
