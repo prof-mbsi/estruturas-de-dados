@@ -1,1 +1,5 @@
+*.cache
+*.dll
 *.exe
+*.log
+**/bin
