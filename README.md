@@ -5,12 +5,12 @@
 ## Cronograma de aulas:
 1. 26/fev: ~~Apresentação do professor, do conteúdo e rvisão de métodos de busca (Bubblesort).~~
 4. 12/mar: ~~Revisão sobre métodos recursivos em C.~~
-5. 19/mar: Lista: lista sequencial: Inserção, remoção e busca de elementos na lista.
-6. 26/mar: Lista: lista circular: Lista dinâmica duplamente encadeada.
-7. 02/abr: Pilha: inserção de elementos em pilhas.
-8. 09/abr: Pilha: remoção e consulta de elementos em pilhas.
-9. 16/abr: Fila: operações básicas.
-10. 23/abr: Fila: tipos de fila. Inserção, busca e remoção de elementos.
+5. 19/mar: ~~Pilha: inserção de elementos em pilhas.~~
+6. 26/mar: Pilha: remoção e consulta de elementos em pilhas.
+7. 02/abr: Fila: operações básicas.
+8. 09/abr: Fila: tipos de fila. Inserção, busca e remoção de elementos.
+9. 16/abr: Lista: lista sequencial: Inserção, remoção e busca de elementos na lista.
+10. 23/abr: Lista: lista circular: Lista dinâmica duplamente encadeada.
 11. 30/abr: **_A2-1: Avaliação parcial individual e sem consulta (2,0)_**
 12. 07/mai: Grafos: conceitos. Vértices, arestas, grau, laços.
 13. 14/mai: Grafos: matriz de adjacência.
