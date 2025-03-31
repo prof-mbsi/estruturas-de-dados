@@ -6,7 +6,7 @@
 1. 26/fev: ~~Apresentação do professor, do conteúdo e rvisão de métodos de busca (Bubblesort).~~
 4. 12/mar: ~~Revisão sobre métodos recursivos em C.~~
 5. 19/mar: ~~Pilha: inserção de elementos em pilhas.~~
-6. 26/mar: Pilha: remoção e consulta de elementos em pilhas.
+6. 26/mar: ~~Pilha: remoção e consulta de elementos em pilhas.~~
 7. 02/abr: Fila: operações básicas.
 8. 09/abr: Fila: tipos de fila. Inserção, busca e remoção de elementos.
 9. 16/abr: Lista: lista sequencial: Inserção, remoção e busca de elementos na lista.
