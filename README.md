@@ -11,12 +11,12 @@
 8. 09/abr: ~~Fila: tipos de fila. Inserção, busca e remoção de elementos.~~
 9. 16/abr: ~~Lista: lista sequencial: Inserção, remoção e busca de elementos na lista.~~
 10. 23/abr: ~~Lista: lista circular: Lista dinâmica duplamente encadeada.~~
-11. 30/abr: ~~**_A2-1: Avaliação parcial individual e sem consulta (2,0)_**~~
-12. 07/mai: Grafos: conceitos. Vértices, arestas, grau, laços.
-13. 14/mai: Grafos: matriz de adjacência.
-14. 21/mai: Grafos: inserção e remoção de arestas.
-15. 28/mai: Grafos: métodos de busca.
-16. 04/jun: Grafos: busca em profundidade.
+11. 30/abr: ~~Exercícios sobre pilha, fila e lista no Blackboard para entrega.~~
+12. 07/mai: ~~**_A2-1: Avaliação parcial individual e sem consulta (2,0)_**~~
+13. 14/mai: ~~Grafos: conceitos. Vértices, arestas, grau, laços.~~
+14. 21/mai: Grafos: matriz de adjacência.
+15. 28/mai: Grafos: inserção e remoção de arestas.
+16. 04/jun: Grafos: métodos de busca.
 17. 11/jun: **_A2-2: Projeto disciplinar e equipe. Defesa/Apresentação (3,0)_**
 18. 18/jun: **_A1: Prova individual e sem consulta_**
 19. 02/jul: **_Substitutiva_**
