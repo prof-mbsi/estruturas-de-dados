@@ -15,7 +15,7 @@
 12. 07/mai: ~~**_A2-1: Avaliação parcial individual e sem consulta (2,0)_**~~
 13. 14/mai: ~~Grafos: conceitos. Vértices, arestas, grau, laços.~~
 14. 21/mai: ~~Grafos: matriz de adjacência.~~
-15. 28/mai: Grafos: inserção e remoção de arestas.
+15. 28/mai: ~~Grafos: inserção e remoção de arestas.~~
 16. 04/jun: Grafos: métodos de busca.
 17. 11/jun: **_A2-2: Projeto disciplinar e equipe. Defesa/Apresentação (3,0)_**
 18. 18/jun: **_A1: Prova individual e sem consulta_**
